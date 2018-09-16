@@ -1,0 +1,4 @@
+﻿  RPN.cpp
+c:\users\король андрей\documents\visual studio 2015\projects\rpn\rpn.cpp(18): warning C4101: 'y': unreferenced local variable
+  RPN.vcxproj -> C:\Users\Король Андрей\Documents\Visual Studio 2015\Projects\RPN\Debug\RPN.exe
+  RPN.vcxproj -> C:\Users\Король Андрей\Documents\Visual Studio 2015\Projects\RPN\Debug\RPN.pdb (Full PDB)
